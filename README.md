@@ -1,8 +1,15 @@
-# Bucket Reports Static Site Generation 
+# Bucket Reports
 
-Using Vuepress to create the Bucket Reports glossary. Adrian you should:
+Bucket reports are excel documents that are received from Fibre providers on a regular basis. 
 
-- Clone this repo
-- Edit `docs\Readme.md`
-- Learn more about the Markdown format for tables https://www.markdownguide.org/extended-syntax/#tables
+They include the status of the order together with comments. Sometimes these comments are obscure and
+that's why **Adrian Punt** has created this glossary.
 
+## Glossary
+
+| Provider | Status | Description |
+|----------|--------|-------------|
+| MFN      | Cancelled | The Order has been Cancelled on MFN Midbase (Portal) |
+| MFN      | Pending Activation | After ONT install the techniacian sends feedback to the Network Operations Center (NOC) Engineers |
+| MFN      | Scheduled ONT | MFN has made contact with client and ONT installation has been scheduled |
+| Openserve | Cancelled | The rder is now cancelled and cannot be salvaged |
