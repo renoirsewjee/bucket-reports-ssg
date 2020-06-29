@@ -9,8 +9,8 @@
   },
   "repository": "/bucket-reports-ssg",
   "scripts": {
-    "dev": "vuepress dev docs",
-    "build": "vuepress build docs"
+    "dev": "vuepress dev",
+    "build": "vuepress build"
   },
   "license": "MIT",
   "devDependencies": {
