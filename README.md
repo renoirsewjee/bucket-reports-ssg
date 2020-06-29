@@ -1,13 +1,8 @@
-# bucket-reports-ssg
+# Bucket Reports Static Site Generation 
 
-> 
+Using Vuepress to create the Bucket Reports glossary. Adrian you should:
 
-## Development
-
-```bash
-yarn dev
-yarn build
-```
-
-For more details, please head VuePress's [documentation](https://v1.vuepress.vuejs.org/).
+- Clone this repo
+- Edit `docs\Readme.md`
+- Learn more about the Markdown format for tables https://www.markdownguide.org/extended-syntax/#tables
 
